@@ -1,2 +1,9 @@
 # Redux-TestSuite
-Redux is an architecture pattern and a library
+
+```
+	> git clone https://github.com/UmamaheshMaxwell/Redux-TestSuite.git
+	> cd Redux-TestSuite
+	> npm install
+	> npm start
+```
+
